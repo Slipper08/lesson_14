@@ -16,7 +16,7 @@ body{
  .our-impact::before {
 	content: '';
 	display: block;
-	background: url('/img/blob2.svg') 0 0/100% 100% no-repeat;
+	background: url('img/blob2.svg') 0 0/100% 100% no-repeat;
 	width: 638px;
 	height: 432px;
 	position: absolute;
@@ -48,7 +48,7 @@ body{
 	display: inline-block;
 	width: 17px;
 	height: 17px;
-	background: url('/img/mark.svg') 0 20% no-repeat;
+	background: url('img/mark.svg') 0 20% no-repeat;
 	margin: 0 20px 0 0;
 }
 .title-block__subtitle {
@@ -161,7 +161,7 @@ text-transform: uppercase;
 	display: inline-block;
 	width: 17px;
 	height: 17px;
-	background: url('/img/part2/mark.svg') 0 20% no-repeat;
+	background: url('img/part2/mark.svg') 0 20% no-repeat;
 	margin: 0 20px 0 0;
 }
 .block-title__subtitle {
